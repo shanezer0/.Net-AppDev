@@ -1,0 +1,9 @@
+449490
+0.00
+shan
+kris
+address
+0422803461
+shan@gmail.com
+20-09-2022  05:13 PM,Opening Balance,0,0,0
+20-09-2022  05:13 PM,Closing Balance,0,0,0

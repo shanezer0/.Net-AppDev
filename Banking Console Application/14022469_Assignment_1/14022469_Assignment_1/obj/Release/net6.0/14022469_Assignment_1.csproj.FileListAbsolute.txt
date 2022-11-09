@@ -1,0 +1,15 @@
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\bin\Release\net6.0\14022469_Assignment_1.exe
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\bin\Release\net6.0\14022469_Assignment_1.deps.json
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\bin\Release\net6.0\14022469_Assignment_1.runtimeconfig.json
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\bin\Release\net6.0\14022469_Assignment_1.dll
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\bin\Release\net6.0\14022469_Assignment_1.pdb
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.csproj.AssemblyReference.cache
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.AssemblyInfoInputs.cache
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.AssemblyInfo.cs
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.csproj.CoreCompileInputs.cache
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.dll
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\refint\14022469_Assignment_1.dll
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.pdb
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\14022469_Assignment_1.genruntimeconfig.cache
+D:\UTS\NetApp\Assignment-1\14022469_Assignment_1\14022469_Assignment_1\obj\Release\net6.0\ref\14022469_Assignment_1.dll
